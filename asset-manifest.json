@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/test/static/css/main.929c767b.css",
+    "main.js": "/test/static/js/main.0efb1461.js",
+    "static/media/bootstrap-icons.woff?": "/test/static/media/bootstrap-icons.449ad8adf6ae0424b7ed.woff",
+    "static/media/bootstrap-icons.woff2?": "/test/static/media/bootstrap-icons.dea24bf5a7646d8b84e7.woff2",
+    "static/media/Rectangle 138.png": "/test/static/media/Rectangle 138.f3253eedcb7881f12209.png",
+    "static/media/Rectangle 139.png": "/test/static/media/Rectangle 139.641154adb0d8e65c8090.png",
+    "static/media/bk.jpg": "/test/static/media/bk.b4f768c4c7980d7fb56f.jpg",
+    "static/media/taplinCompany.svg": "/test/static/media/taplinCompany.11aea6508f070a8eb51e216b8caebd19.svg",
+    "static/media/png": "/test/static/media/585e4ae1cb11b227491c3393.265a38582130035fe898.png",
+    "static/media/Group.svg": "/test/static/media/Group.207472826a9eb42a79cd95a758eacd1b.svg",
+    "static/media/Group_1.svg": "/test/static/media/Group_1.fc826290ccd815d67cc8c70b42cd7f34.svg",
+    "static/media/Vector_1.svg": "/test/static/media/Vector_1.7924dff214e4d92f17603eeeb1ff3069.svg",
+    "static/media/Vector.svg": "/test/static/media/Vector.61868e4f7f1c817d3e283ce115b2a882.svg",
+    "index.html": "/test/index.html",
+    "static/media/Ellipse41.svg": "/test/static/media/Ellipse41.5bb7b46234ecdb01281ec412cab12b83.svg",
+    "static/media/Ellipse42.svg": "/test/static/media/Ellipse42.9f9c702652a0c55e9404db0a5e971372.svg",
+    "main.929c767b.css.map": "/test/static/css/main.929c767b.css.map",
+    "main.0efb1461.js.map": "/test/static/js/main.0efb1461.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.929c767b.css",
+    "static/js/main.0efb1461.js"
+  ]
+}
